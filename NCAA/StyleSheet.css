@@ -73,3 +73,9 @@ li.game-bottom {
     margin:auto;
     text-align:center;
 }
+
+.labelbox{
+    text-align:left;
+    margin-left:32px;
+    background:black;
+}
