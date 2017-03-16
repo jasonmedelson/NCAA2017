@@ -54,7 +54,7 @@ li.game {
 
     li.game span {
         float: right;
-        margin-right: 5px;
+        margin-right: 8px;
     }
 
 li.game-top {
@@ -76,6 +76,6 @@ li.game-bottom {
 
 .labelbox{
     text-align:left;
-    margin-left:32px;
-    background:black;
+    margin-left:0;
+    padding-left:0;
 }

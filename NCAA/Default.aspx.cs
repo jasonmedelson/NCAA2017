@@ -57,13 +57,8 @@ public partial class _Default : System.Web.UI.Page
                 location = (i * 2)+1;
                 teamname2[i] = teamname1[location];
             }
-            string test = "Gonzaga";
-            TextBox1.Text = test;
-            Label1.Text = test;
         }
-
-        
-
+        populateround2(teamname2);
     }
     public int eloconversion(int elo1, int elo2)
     {
@@ -77,6 +72,41 @@ public partial class _Default : System.Web.UI.Page
         total = total * 100;
         int percent = (int)total;
         return percent;
+    }
+    public void populateround2(string[] names)
+    {
+        Label1.Text = names[0];
+        Label2.Text = names[1];
+        Label3.Text = names[2];
+        Label4.Text = names[3];
+        Label5.Text = names[4];
+        Label6.Text = names[5];
+        Label7.Text = names[6];
+        Label8.Text = names[7];
+        Label9.Text = names[8];
+        Label10.Text = names[9];
+        Label11.Text = names[10];
+        Label12.Text = names[11];
+        Label13.Text = names[12];
+        Label14.Text = names[13];
+        Label15.Text = names[14];
+        Label16.Text = names[15];
+        Label17.Text = names[16];
+        Label18.Text = names[17];
+        Label19.Text = names[18];
+        Label20.Text = names[19];
+        Label21.Text = names[20];
+        Label22.Text = names[21];
+        Label23.Text = names[22];
+        Label24.Text = names[23];
+        Label25.Text = names[24];
+        Label26.Text = names[25];
+        Label27.Text = names[26];
+        Label28.Text = names[27];
+        Label29.Text = names[28];
+        Label30.Text = names[29];
+        Label31.Text = names[30];
+        Label32.Text = names[31];
     }
 
     protected void TextBox1_TextChanged(object sender, EventArgs e)

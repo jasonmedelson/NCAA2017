@@ -76,29 +76,27 @@
 	        <ul class="round round-2">
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot100">&nbsp; ddd</li>
+		        <li class="game game-top" id="slot100"><asp:Label ID="Label1" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot101">&nbsp; 
-                    <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged">Villinova</asp:TextBox>
-                </li>
+		        <li class="game game-bottom" id="slot101"><asp:Label ID="Label2" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot102">&nbsp;</li>
+		        <li class="game game-top" id="slot102"><asp:Label ID="Label3" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot103">&nbsp;</li>
+		        <li class="game game-bottom" id="slot103"><asp:Label ID="Label4" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot104"><asp:Label ID="Label1" runat="server" Text="&amp;nbsp;" CssClass="labelbox"></asp:Label> </li>
+		        <li class="game game-top" id="slot104"><asp:Label ID="Label5" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot105">&nbsp;</li>
+		        <li class="game game-bottom" id="slot105"><asp:Label ID="Label6" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot106">&nbsp;</li>
+		        <li class="game game-top" id="slot106"><asp:Label ID="Label7" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot107">&nbsp; </li>
+		        <li class="game game-bottom" id="slot107"><asp:Label ID="Label8" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 	        </ul>
@@ -186,27 +184,27 @@
 	        <ul class="round round-2">
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot108">&nbsp; </li>
+		        <li class="game game-top" id="slot108"><asp:Label ID="Label9" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot109">&nbsp; </li>
+		        <li class="game game-bottom" id="slot109"><asp:Label ID="Label10" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot110">&nbsp; </li>
+		        <li class="game game-top" id="slot110"><asp:Label ID="Label11" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot111">&nbsp;</li>
+		        <li class="game game-bottom" id="slot111"><asp:Label ID="Label12" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot112">&nbsp; </li>
+		        <li class="game game-top" id="slot112"><asp:Label ID="Label13" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot113">&nbsp;</li>
+		        <li class="game game-bottom" id="slot113"><asp:Label ID="Label14" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot114">&nbsp; </li>
+		        <li class="game game-top" id="slot114"><asp:Label ID="Label15" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot115">&nbsp; </li>
+		        <li class="game game-bottom" id="slot115"><asp:Label ID="Label16" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 	        </ul>
@@ -293,27 +291,27 @@
 	        <ul class="round round-2">
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot116">&nbsp; </li>
+		        <li class="game game-top" id="slot116"><asp:Label ID="Label17" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot117">&nbsp; </li>
+		        <li class="game game-bottom" id="slot117"><asp:Label ID="Label18" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot118">&nbsp; </li>
+		        <li class="game game-top" id="slot118"><asp:Label ID="Label19" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot119">&nbsp;</li>
+		        <li class="game game-bottom" id="slot119"><asp:Label ID="Label20" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot120">&nbsp; </li>
+		        <li class="game game-top" id="slot120"><asp:Label ID="Label21" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot121">&nbsp;</li>
+		        <li class="game game-bottom" id="slot121"><asp:Label ID="Label22" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot122">&nbsp; </li>
+		        <li class="game game-top" id="slot122"><asp:Label ID="Label23" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot123">&nbsp; </li>
+		        <li class="game game-bottom" id="slot123"><asp:Label ID="Label24" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 
 		        <li class="spacer">&nbsp;</li>
 	        </ul>
@@ -400,27 +398,27 @@
 	        <ul class="round round-2">
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot124">&nbsp; </li>
+		        <li class="game game-top" id="slot124"><asp:Label ID="Label25" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot125">&nbsp; </li>
+		        <li class="game game-bottom" id="slot125"><asp:Label ID="Label26" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot126">&nbsp; </li>
+		        <li class="game game-top" id="slot126"><asp:Label ID="Label27" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot127">&nbsp;</li>
+		        <li class="game game-bottom" id="slot127"><asp:Label ID="Label28" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot128">&nbsp; </li>
+		        <li class="game game-top" id="slot128"><asp:Label ID="Label29" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label>  </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot129">&nbsp;</li>
+		        <li class="game game-bottom" id="slot129"><asp:Label ID="Label30" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 
 		        <li class="spacer">&nbsp;</li>
 		
-		        <li class="game game-top" id="slot130">&nbsp; </li>
+		        <li class="game game-top" id="slot130"><asp:Label ID="Label31" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label> </li>
 		        <li class="game game-spacer">&nbsp;</li>
-		        <li class="game game-bottom" id="slot131">&nbsp; </li>
+		        <li class="game game-bottom" id="slot131"><asp:Label ID="Label32" runat="server" Text="&amp;nbsp;" CssClass="labelbox" Width="169px"></asp:Label></li>
 
 		        <li class="spacer">&nbsp;</li>
 	        </ul>
